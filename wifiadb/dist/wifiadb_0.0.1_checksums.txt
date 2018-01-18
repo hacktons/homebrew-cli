@@ -1,0 +1,3 @@
+f10ee1772196ac0ba087e7403aa08a9217a7c2f3fdfc37abc29f876e71069b8f  wifiadb_0.0.1_linux_64-bit.tar.gz
+bbdaac7b87fc3d7b8921c8ba59233e87a18134b1dae69df9109c6bf794b2ede4  wifiadb_0.0.1_windows_64-bit.tar.gz
+74ed76cacde956d205fef8901a171559c284efdba718ae437584d313ef1330f3  wifiadb_0.0.1_macOS_64-bit.tar.gz
