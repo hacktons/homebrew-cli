@@ -1,3 +1,0 @@
-6a4869e4fa4e47db71b6674b67b7a557f8a1e5927d85c80fea9fcf8d1ef35efb  apkcompare_0.0.3_linux_64-bit.tar.gz
-a21b4cab92f0d7e29758e7e32e7fde10ef60dca2ade680becb2ab35492a7361a  apkcompare_0.0.3_windows_64-bit.tar.gz
-c81bf9624e8396e146458f519c7b4628fda1dcc39063af0f91e17508bdface6f  apkcompare_0.0.3_macOS_64-bit.tar.gz
