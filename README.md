@@ -1,5 +1,5 @@
 # homebrew-cli
-Simple scripts that help to ease handy work daily, most of these cli tools was written in Golang.
+Some cli tools that help to ease handy work, most of these are written in Golang.
 
 We’ve shipped the tools with `Homebrew Formula` , so you can use brew to install.
 
@@ -8,7 +8,7 @@ We’ve shipped the tools with `Homebrew Formula` , so you can use brew to insta
 
 ### 1. Install cli
 
-Make sure you have homebrew installed.
+Make sure you have `homebrew` installed.
 
 ```bash
 :~aven$ brew install wifiadb
@@ -16,7 +16,7 @@ Make sure you have homebrew installed.
 ### 2. How to use
 
 1. Connect device to macOS, make sure both device and macOS are in the same network;
-2. Use `wifiadb` to reconnect device, follow the cli promote to unplugin the USB;
+2. Use `wifiadb` to reconnect device, follow the cli prompt to unplugin the USB;
 
 To make a preview, you can see that our device is connected as `10.252.238.184:5555` after running `wifiadb`.
 
@@ -38,9 +38,9 @@ This tool is used to make comparison between apk files. It will generate a `xlsx
 
 ### 2. How to use
 
-Type  `apkcompare` in your terminal, you should the usage help.
+Type `apkcompare` into terminal to find out the usage help.
 
-Generally, it receives a folder of apks as input parameter `-p, --path`, then generate a `xlsx` file.
+Generally, it receives a folder of apks as input parameter (see as `-p, --path`), then generate a `xlsx` report.
 
 ```bash
 apkcompare -p ./ -o report.xlsx
